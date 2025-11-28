@@ -1,9 +1,4 @@
-<?php
-/*
-Name: Damoze    Motuma
-Course Code: SEng 3053
-*/
-?>
+
 <form method="post">
     Enter a word: <input type="text" name="text">
     <button type="submit">Count</button>

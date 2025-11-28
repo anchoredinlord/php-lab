@@ -1,9 +1,4 @@
-<?php
-/*
-Name: Damoze    Motuma
-Course Code: SEng 3053
-*/
-?>
+
 <form method="post">
     Email: <input type="email" name="email">
     <button type="submit">Mask</button>
